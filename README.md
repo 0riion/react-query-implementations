@@ -49,10 +49,6 @@ This project is not an open-source contribution. It is a personal project that I
 
 You can create a fork of this project and use it as a template for your own project. If you find a bug, please open an issue or feel free to contact me, remember that this project is not an open-source contribution.
 
-## License
-
-The license for your project.
-
 ## Contact
 
 Julio Flores - [contact@juliofloresdev.com](mailto:contact@juliofloresdev.com)
